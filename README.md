@@ -2,7 +2,7 @@ Este es un proyecto para la asignatura de Fundamentos de Programación de la UNE
 
 El programa tiene como objetivo administrar edificios y apartamentos en un sistema de reservas, permitiendo realizar las siguientes operaciones:
 
-- Editar Edificio: Permite ingresar o modificar la información de un edificio, incluyendo su nombre y número de apartamentos por tipo (básico, normal, lujo). Si los datos no son válidos (como superar el límite de 20 apartamentos), se debe mostrar un error.
+- Editar Edificio: Permite ingresar o modificar la información de un edificio, incluyendo su nombre y número de apartamentos por tipo (básico, normal, lujo).
 
 - Listar Edificios: Muestra todos los edificios registrados con la cantidad de apartamentos de cada tipo.
 
