@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="GesRAE.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="14711" topLine="446" />
+	</File>
+	<File name="GesRAE.h" open="1" top="0" tabpos="6">
+		<Cursor position="198" topLine="26" />
+	</File>
+	<File name="PEC4FP.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="121" topLine="0" />
+	</File>
+	<File name="calendario.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2328" topLine="0" />
+	</File>
+	<File name="calendario.h" open="1" top="0" tabpos="10">
+		<Cursor position="448" topLine="0" />
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="3834" topLine="145" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="9">
+		<Cursor position="14" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

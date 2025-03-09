@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1736534183 source:c:\users\natal\desktop\trabajos y estudios\uned\cmasmenos\pec prog\pec4fp\pec4fp\pec4fp.cpp
+	<iostream.h>
+	"menu.h"
+
+1736869815 source:c:\users\natal\desktop\trabajos y estudios\uned\cmasmenos\pec prog\pec4fp\pec4fp\gesrae.cpp
+	<stdio.h>
+	<string.h>
+	"GesRAE.h"
+
+1736866252 c:\users\natal\desktop\trabajos y estudios\uned\cmasmenos\pec prog\pec4fp\pec4fp\gesrae.h
+	"calendario.h"
+
+1736629330 source:c:\users\natal\desktop\trabajos y estudios\uned\cmasmenos\pec prog\pec4fp\pec4fp\calendario.cpp
+	<stdio.h>
+	"calendario.h"
+
+1736629328 c:\users\natal\desktop\trabajos y estudios\uned\cmasmenos\pec prog\pec4fp\pec4fp\calendario.h
+
+1736868722 source:c:\users\natal\desktop\trabajos y estudios\uned\cmasmenos\pec prog\pec4fp\pec4fp\menu.cpp
+	<stdio.h>
+	<string.h>
+	"menu.h"
+
+1736545694 c:\users\natal\desktop\trabajos y estudios\uned\cmasmenos\pec prog\pec4fp\pec4fp\menu.h
+	"GesRAE.h"
+
